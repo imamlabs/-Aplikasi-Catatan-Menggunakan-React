@@ -1,0 +1,6 @@
+pastikan dependensi terinstall
+kalau belum
+npm install
+Jalankan Server
+npm install
+npm run dev
